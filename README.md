@@ -1,4 +1,4 @@
-# ✨ Full Stack Realtime Chat App ✨
+# ✨Linkify - Full Stack Realtime Chat App ✨
 
 A modern and responsive real-time chat application built with the MERN stack, Socket.io, and TailwindCSS. This app features real-time messaging, JWT-based authentication, online status indicators, and a clean UI powered by DaisyUI.
 
